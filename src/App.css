@@ -1,0 +1,18 @@
+body{
+  background-color: #FAF9F4;
+  overflow: hidden;
+  /* font-family: 'Poppins', sans-serif; */
+}
+textarea:focus, input:focus{
+  outline: none;
+}
+#inputtt{
+  width: 80vw;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap');
+
+/* @media (min-width: 1000px) {
+  #inputtt{
+    color:green
+  }
+} */
